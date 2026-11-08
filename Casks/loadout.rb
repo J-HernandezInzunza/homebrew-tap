@@ -1,7 +1,7 @@
 cask "loadout" do
   # Loadout's release workflow rewrites version and sha256 when a release is published.
-  version "0.2.0"
-  sha256 "39d0c426726c84b6087fdf4a7e834e7bfaa8fc83a5f97a3ac76cb5b2df6daaf7"
+  version "0.3.0"
+  sha256 "474fba545b5d6711e386f522659de59e88968d8f122b8d82e1cad8f17f52e09f"
 
   url "https://github.com/J-HernandezInzunza/loadout/releases/download/v#{version}/Loadout_#{version}_aarch64.dmg"
   name "Loadout"
